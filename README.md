@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jawa
+- 👀 I’m interested in Python language
+- 🌱 I’m currently developing my Python level
